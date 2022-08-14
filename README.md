@@ -3,6 +3,7 @@
 ## Go to home directory
 
 ``` bash
+#CD Tilde Means CD Home
 cd ~
 ```
 
