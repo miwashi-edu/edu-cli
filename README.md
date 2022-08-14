@@ -1,10 +1,16 @@
 # edu-cli
 
-:smile:
+## Go to home directory
 
+``` bash
+cd ~
+```
 
-```java
-public class MyClass{
-}
-````
+## Go to workspace directory
+
+``` bash
+cd
+cd ws
+```
+
 
