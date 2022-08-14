@@ -1,1 +1,3 @@
 # edu-cli
+
+:smile:
